@@ -1,0 +1,6 @@
+{
+  "name": "Futebol de Botão",
+  "description": "Jogo clássico de futebol de botão com física 2D realista, modos VS CPU, 2 Jogadores, Torneio, Treino e Pênaltis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
